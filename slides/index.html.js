@@ -1,7 +1,7 @@
 module.exports = `<!DOCTYPE html>
 <html>
   <head>
-    <title>Webpack Workshop</title>
+    <title>Intro To BrowserStack</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <style type="text/css">
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
